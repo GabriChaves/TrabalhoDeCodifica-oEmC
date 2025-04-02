@@ -7,6 +7,6 @@
 📚Conteúdo Utilizado:
 - 
 - PUCRS: Lista de Exercícios de Algoritmos Repetição.
-  Contém 55 exercícios diferentes;
+  ➡️Contém 55 exercícios diferentes.
 - IFSC: Lista de Exercícios de Algoritmos Vetores e Matrizes.
-   Contém 152 exercícios diferentes;
+  ➡️Contém 152 exercícios diferentes.
