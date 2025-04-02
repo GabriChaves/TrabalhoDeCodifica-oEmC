@@ -12,4 +12,4 @@
 🔗Links:
 -
 - https://www.inf.pucrs.br/~pinho/LaproI/Exercicios/Repeticao/Lista1.htm
-- 
+- https://just.pro.br/download/ifba/algoritmos/caderno_de_exercicios-algoritmos-v.1.3.pdf
